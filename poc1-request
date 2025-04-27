@@ -1,0 +1,18 @@
+GET /iam-api/api/serviceNow/v1/cases/attachment?source=sso&caseId=1da376c740896e1071717325e43e6fc6 HTTP/1.1
+Host: iam-support.moe.gov.sa
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en
+Sec-Ch-Ua: "Chromium";v="135", "Not-A.Brand";v="8"
+Sec-Ch-Ua-Mobile: ?0
+Access-Control-Allow-Credentials: true
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+Accept: application/json
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://iam-support.moe.gov.sa/CS1949063
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
